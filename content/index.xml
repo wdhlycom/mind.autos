@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contents | mind.autos: The engine for your mind</title>
+    <link>https://wdhlycom.github.io/mind.autos/content/</link>
+      <atom:link href="https://wdhlycom.github.io/mind.autos/content/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contents</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://wdhlycom.github.io/mind.autos/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Contents</title>
+      <link>https://wdhlycom.github.io/mind.autos/content/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://wdhlycom.github.io/mind.autos/content/%E6%AC%A2%E8%BF%8E/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://wdhlycom.github.io/mind.autos/content/%E6%AC%A2%E8%BF%8E/</guid>
+      <description>&lt;p&gt;这是你的新&lt;em&gt;仓库&lt;/em&gt;。&lt;/p&gt;
+&lt;p&gt;写点笔记，[[创建链接]]，或者试一试&lt;a href=&#34;https://help.obsidian.md/Plugins/Importer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;导入器&lt;/a&gt;插件!&lt;/p&gt;
+&lt;p&gt;当你准备好了，就将该笔记文件删除，使这个仓库为你所用。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

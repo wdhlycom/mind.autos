@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reviews &amp; Tools | mind.autos: The engine for your mind</title>
+    <link>https://wdhlycom.github.io/mind.autos/reviews/</link>
+      <atom:link href="https://wdhlycom.github.io/mind.autos/reviews/index.xml" rel="self" type="application/rss+xml" />
+    <description>Reviews &amp; Tools</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://wdhlycom.github.io/mind.autos/media/icon_hu_8b792fc0bcdf6699.png</url>
+      <title>Reviews &amp; Tools</title>
+      <link>https://wdhlycom.github.io/mind.autos/reviews/</link>
+    </image>
+    
+  </channel>
+</rss>
